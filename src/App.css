@@ -1,0 +1,20 @@
+.App-container-1 {
+	display: grid;
+	grid-template-columns: minmax(300px, 1fr);
+	grid-template-rows: 1fr;
+	grid-auto-columns: 1fr;
+	grid-auto-rows: 1fr;
+	grid-gap: 1px 1px;
+    justify-content: center;
+}
+
+.App-container-2 {
+	display: grid;
+	grid-template-columns: minmax(300px, 1fr);
+	grid-template-rows: 1fr;
+	grid-auto-columns: 1fr;
+	grid-auto-rows: 1fr;
+	grid-gap: 1px 1px;
+    justify-content: center;
+}
+

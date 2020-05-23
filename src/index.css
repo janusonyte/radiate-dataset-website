@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat'), url(../src/fonts/Montserrat-Regular.ttf) format('truetype')
+}
+
+body {
+  margin: auto 0;
+  font-family: 'Montserrat';
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html {
+scroll-behavior: smooth;
+}
