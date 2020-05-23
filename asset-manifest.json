@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/radiate-dataset-website/static/css/main.6cab3ae9.chunk.css",
+    "main.js": "/radiate-dataset-website/static/js/main.17b10289.chunk.js",
+    "main.js.map": "/radiate-dataset-website/static/js/main.17b10289.chunk.js.map",
+    "runtime-main.js": "/radiate-dataset-website/static/js/runtime-main.238059a3.js",
+    "runtime-main.js.map": "/radiate-dataset-website/static/js/runtime-main.238059a3.js.map",
+    "static/js/2.9d760971.chunk.js": "/radiate-dataset-website/static/js/2.9d760971.chunk.js",
+    "static/js/2.9d760971.chunk.js.map": "/radiate-dataset-website/static/js/2.9d760971.chunk.js.map",
+    "index.html": "/radiate-dataset-website/index.html",
+    "precache-manifest.67a10cef42f4813b4a05abe79e8e714e.js": "/radiate-dataset-website/precache-manifest.67a10cef42f4813b4a05abe79e8e714e.js",
+    "service-worker.js": "/radiate-dataset-website/service-worker.js",
+    "static/css/main.6cab3ae9.chunk.css.map": "/radiate-dataset-website/static/css/main.6cab3ae9.chunk.css.map",
+    "static/js/2.9d760971.chunk.js.LICENSE.txt": "/radiate-dataset-website/static/js/2.9d760971.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Regular.ttf": "/radiate-dataset-website/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/car1.png": "/radiate-dataset-website/static/media/car1.6182648f.png",
+    "static/media/car2.jpg": "/radiate-dataset-website/static/media/car2.0f97a742.jpg",
+    "static/media/fog.jpg": "/radiate-dataset-website/static/media/fog.ec1ab912.jpg",
+    "static/media/logo-ecr.jpg": "/radiate-dataset-website/static/media/logo-ecr.e97535bd.jpg",
+    "static/media/logo.png": "/radiate-dataset-website/static/media/logo.abafb882.png",
+    "static/media/motorway.jpg": "/radiate-dataset-website/static/media/motorway.a2728120.jpg",
+    "static/media/night.jpg": "/radiate-dataset-website/static/media/night.e503b550.jpg",
+    "static/media/rain.jpg": "/radiate-dataset-website/static/media/rain.a330d04d.jpg",
+    "static/media/snow.jpg": "/radiate-dataset-website/static/media/snow.c3dd7969.jpg",
+    "static/media/urban.jpg": "/radiate-dataset-website/static/media/urban.62f9991a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.238059a3.js",
+    "static/js/2.9d760971.chunk.js",
+    "static/css/main.6cab3ae9.chunk.css",
+    "static/js/main.17b10289.chunk.js"
+  ]
+}
