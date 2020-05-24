@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/radiate-dataset-website/precache-manifest.67a10cef42f4813b4a05abe79e8e714e.js"
+  "/radiate-dataset-website/precache-manifest.dd81dae8979b164c1d7683a247108800.js"
 );
 
 self.addEventListener('message', (event) => {
