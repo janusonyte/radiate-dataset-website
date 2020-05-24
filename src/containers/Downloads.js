@@ -17,7 +17,7 @@ class Downloads extends React.Component {
                 </div>
                 <Fade big>
                     <h2>
-                        <a href="https://www.dropbox.com/sh/3q6tx06g91uxert/AAA9qT_CKN2BnT8gDAlCYOqHa?dl=0&fbclid=IwAR1ctS3s5wx2skqf1Zihmtc9rekze3VWE-6ogwFwkY-iTn1Oqcwl6znCd8U">Click here to select and download data</a>
+                        <a href="#downloads">Click here to select and download data</a>
                     </h2>
                     <div className="third-block-container">
                         <div className="fog">
